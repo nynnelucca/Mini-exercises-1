@@ -1,2 +1,1 @@
-# Mini-exercises
-Mini exercises in aesthetic programming
+# Mini-exercise 2
