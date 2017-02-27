@@ -1,3 +1,4 @@
+Link: https://cdn.rawgit.com/SylvesterSA/Mini-exercises/gh-pages/mini%20ex_3/index.html
 
  ![ScreenShot](https://github.com/SylvesterSA/Mini-exercises/blob/gh-pages/mini%20ex_3/Udklip.PNG)
 
