@@ -1,3 +1,6 @@
+
+ ![ScreenShot](https://github.com/SylvesterSA/Mini-exercises/blob/gh-pages/mini%20ex_3/Udklip.PNG)
+
 This throbber consists of two throbbers, a spinning ball in the middle and 4 balls bouncing from the edges towards the center. 
 Upon initial start of the program, a textbox with a question pops up, asking the user how long they can wait. 
 This was a fun little play on the waiting time associated with throbbers. I intended the spinning throbber to continously to change colours within the given spectru, 
