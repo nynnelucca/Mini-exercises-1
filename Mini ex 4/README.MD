@@ -3,7 +3,7 @@ Mini ex_4 Feedback loop
 
 RUN: https://cdn.rawgit.com/SylvesterSA/Mini-exercises/gh-pages/Mini%20ex%204/index.html
 
- ![ScreenShot]https://github.com/SylvesterSA/Mini-exercises/blob/gh-pages/Mini%20ex%204/dimension%20box.PNG 
+ ![ScreenShot](https://github.com/SylvesterSA/Mini-exercises/blob/gh-pages/Mini%20ex%204/dimension%20box.PNG)
 
 This work illustrates feedback via the balls travelling across the screen and being ”teleported” to a different place.
 The input is initiated via a ball launched when the mouse is clicked.
