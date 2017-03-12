@@ -1,6 +1,6 @@
 Mini ex 5
 ![SCREENSHOT](https://github.com/SylvesterSA/Mini-exercises/blob/gh-pages/Mini%20ex%205/Udklip.PNG)
-run: https://cdn.rawgit.com/SylvesterSA/Mini-exercises/gh-pages/Mini%20ex%205/index.html
+run: 
 
 The title of my work is ”Languageness of Academization”. I have used sentences found in various assigned texts for this year’s classes in both software studies and aesthetic programming. Whenever the mouse is pressed, it pulls random words from the found sentences and puts them toghether. The idea behind my work is based on an idea i contrived with Phillip while reading during the semester. We kinda  laughed and joked about some of the more crazy sentences and choice (and inventing) of words that some of the theorists and authors sometimes constructs. Of couse, most of these sentences are taken out of context and they do evidently make sense in the context of their originated texts, but we still found it funny to ’poke fun’ at some of the more ”academized” sentences. The idea behind this work was to make these complicated sentences even more complex but perhaps make the same amount of sense to the reader. Unfortunately i ran into a number of problems while using the Rita library which ultimately convoluted my work a bit. I originally intended to use the rita library to replace words in the sentences with random words from the Rita lexicon. 
 
