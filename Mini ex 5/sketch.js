@@ -5,7 +5,7 @@ var rita;
 
 function preload() {
 
-  font = loadFont('data/Junction-Regular.otf');
+  font = loadFont('data/Junction-regular.otf');
   loatext = loadStrings('data/LOA.txt');
 }
 
