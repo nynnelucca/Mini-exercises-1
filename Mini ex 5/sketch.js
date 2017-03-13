@@ -6,7 +6,7 @@ var rita;
 function preload() {
 
   font = loadFont('data/Junction-regular.otf');
-  loatext = loadStrings('data/LOA.txt');
+  loatext = loadStrings('data/LOA.txt'); //correction loadText, it is a standard to spell the second word with a capitalized beginning letter
 }
 
 function setup() {
@@ -14,10 +14,10 @@ function setup() {
   createCanvas(800, 500);
   textFont(font, 30);
   textAlign(CENTER);
-  grammar = RiTa.untokenize(loatext); 
+  grammar = RiTa.untokenize(loatext); //is your misspelling on purpose, because there is a function called "loadText"?
   
 
-  lines = ["languageness", "of", "academization"];
+  lines = ["languageness", "of", "academization"]; //is this an array...? 
 }
 
 function draw() {
